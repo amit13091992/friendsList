@@ -1,6 +1,7 @@
 const STRING_CONSTANTS = {
     APP_NAME: "NopalCyber",
     ROUTES: {
+        LOGIN: 'login',
         HOME_SCREEN: 'HomeScreen',
         FRIENDS_SCREEN: 'FriendsScreen',
         SETTINGS_SCREEN: 'SettingsScreen',
